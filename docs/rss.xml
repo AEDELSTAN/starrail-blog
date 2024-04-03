@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Kevin's Blog</title><link>https://AEDELSTAN.github.io/Kevin-Gmeek-Blog</link><description>这是什么，试一下</description><copyright>Kevin's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://q1.qlogo.cn/g?b=qq&amp;nk=1070575521&amp;s=640</url><title>avatar</title><link>https://AEDELSTAN.github.io/Kevin-Gmeek-Blog</link></image><lastBuildDate>Wed, 03 Apr 2024 11:56:49 +0000</lastBuildDate><managingEditor>Kevin's Blog</managingEditor><ttl>60</ttl><webMaster>Kevin's Blog</webMaster><item><title>正确创建多个Outlook邮箱</title><link>https://AEDELSTAN.github.io/Kevin-Gmeek-Blog/post/zheng-que-chuang-jian-duo-ge-Outlook-you-xiang.html</link><description>今天想给自己创建以后要用到的较为正式的Outlook邮箱，踩了一些坑，这里记录一下：&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Kevin's Blog</title><link>https://AEDELSTAN.github.io/Kevin-Gmeek-Blog</link><description>这是什么，试一下</description><copyright>Kevin's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://q1.qlogo.cn/g?b=qq&amp;nk=1070575521&amp;s=640</url><title>avatar</title><link>https://AEDELSTAN.github.io/Kevin-Gmeek-Blog</link></image><lastBuildDate>Wed, 03 Apr 2024 11:57:32 +0000</lastBuildDate><managingEditor>Kevin's Blog</managingEditor><ttl>60</ttl><webMaster>Kevin's Blog</webMaster><item><title>正确创建多个Outlook邮箱</title><link>https://AEDELSTAN.github.io/Kevin-Gmeek-Blog/post/zheng-que-chuang-jian-duo-ge-Outlook-you-xiang.html</link><description>今天想给自己创建以后要用到的较为正式的Outlook邮箱，踩了一些坑，这里记录一下：&#13;
 &#13;
-       创建Outlook邮箱时，如果是打算进行类似 `xxx.work/life/study@outlook.com` 这样的多个分类，最好在一直使用的微软账号里选择：&#13;
+创建Outlook邮箱时，如果是打算进行类似 `xxx.work/life/study@outlook.com` 这样的多个分类，最好在一直使用的微软账号里选择：&#13;
 &#13;
 **“编辑个人资料信息”**-&gt;**“添加电子邮件”**-&gt;**“创建一个新电子邮件地址并将其添加为别名”**&#13;
 &#13;
-       虽然微软确实有 **“将现有电子邮件地址添加为 Microsoft 帐户别名”** 的选项，但是输入直接新建的Outlook邮箱，会提示该邮箱已被使用......&#13;
+虽然微软确实有 **“将现有电子邮件地址添加为 Microsoft 帐户别名”** 的选项，但是输入直接新建的Outlook邮箱，会提示该邮箱已被使用......&#13;
 &#13;
-       总而言之，只用在主账户里添加新别名就行了。</description><guid isPermaLink="true">https://AEDELSTAN.github.io/Kevin-Gmeek-Blog/post/zheng-que-chuang-jian-duo-ge-Outlook-you-xiang.html</guid><pubDate>Wed, 03 Apr 2024 06:46:12 +0000</pubDate></item><item><title>星穹铁道 攻略 合辑</title><link>https://AEDELSTAN.github.io/Kevin-Gmeek-Blog/post/xing-qiong-tie-dao-%20-gong-lve-%20-he-ji.html</link><description>佩拉：
+总而言之，只用在主账户里添加新别名就行了。</description><guid isPermaLink="true">https://AEDELSTAN.github.io/Kevin-Gmeek-Blog/post/zheng-que-chuang-jian-duo-ge-Outlook-you-xiang.html</guid><pubDate>Wed, 03 Apr 2024 06:46:12 +0000</pubDate></item><item><title>星穹铁道 攻略 合辑</title><link>https://AEDELSTAN.github.io/Kevin-Gmeek-Blog/post/xing-qiong-tie-dao-%20-gong-lve-%20-he-ji.html</link><description>佩拉：
 [一图流](https://AEDELSTAN.github.io/picx-images-hosting/Pictures/StarRail/Guide/佩拉.8ojgytn6su.jpg)
 [原贴](https://m.miyoushe.com/sr?channel=xiaomi/#/article/51061321)
 &lt;details&gt;&#13;
