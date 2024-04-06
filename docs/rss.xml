@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>星铁合辑</title><link>https://AEDELSTAN.github.io/starrail-blog</link><description>如题，未来可能发展成我玩的游戏的攻略合辑</description><copyright>星铁合辑</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://jsd.cdn.zzko.cn/gh/AEDELSTAN/picx-images-hosting@master/Pictures/Avatar/20220801165631_5ce88.4cknvcqim4.webp</url><title>avatar</title><link>https://AEDELSTAN.github.io/starrail-blog</link></image><lastBuildDate>Sat, 06 Apr 2024 08:06:35 +0000</lastBuildDate><managingEditor>星铁合辑</managingEditor><ttl>60</ttl><webMaster>星铁合辑</webMaster><item><title>正确创建多个Outlook邮箱</title><link>https://AEDELSTAN.github.io/starrail-blog/post/zheng-que-chuang-jian-duo-ge-Outlook-you-xiang.html</link><description>今天想给自己创建以后要用到的较为正式的Outlook邮箱，踩了一些坑，这里记录一下：&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>星铁合辑</title><link>https://AEDELSTAN.github.io/starrail-blog</link><description>如题，未来可能发展成我玩的游戏的攻略合辑</description><copyright>星铁合辑</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://jsd.cdn.zzko.cn/gh/AEDELSTAN/picx-images-hosting@master/Pictures/Avatar/20220801165631_5ce88.4cknvcqim4.webp</url><title>avatar</title><link>https://AEDELSTAN.github.io/starrail-blog</link></image><lastBuildDate>Sat, 06 Apr 2024 08:38:12 +0000</lastBuildDate><managingEditor>星铁合辑</managingEditor><ttl>60</ttl><webMaster>星铁合辑</webMaster><item><title>星穹铁道-黄泉攻略</title><link>https://AEDELSTAN.github.io/starrail-blog/post/xing-qiong-tie-dao---huang-quan-gong-lve.html</link><description>**佩拉：**&#13;
+&#13;
+&gt; 【戍卫风雪的铁卫】x4  &#13;
+&gt; 【不老者的仙舟】x2&#13;
+&gt;   命中衣服/速度鞋/生命球/能量绳&#13;
+&#13;
+**[米游社原贴](https://m.miyoushe.com/sr?channel=xiaomi/#/article/51061321)**&#13;
+&#13;
+![一图流](https://jsd.cdn.zzko.cn/gh/AEDELSTAN/picx-images-hosting@master/Pictures/StarRail/Guide/佩拉.8ojgytn6su.jpg)。</description><guid isPermaLink="true">https://AEDELSTAN.github.io/starrail-blog/post/xing-qiong-tie-dao---huang-quan-gong-lve.html</guid><pubDate>Sat, 06 Apr 2024 08:37:48 +0000</pubDate></item><item><title>正确创建多个Outlook邮箱</title><link>https://AEDELSTAN.github.io/starrail-blog/post/zheng-que-chuang-jian-duo-ge-Outlook-you-xiang.html</link><description>今天想给自己创建以后要用到的较为正式的Outlook邮箱，踩了一些坑，这里记录一下：&#13;
 &#13;
 创建Outlook邮箱时，如果是打算进行类似 `xxx.work/life/study@outlook.com` 这样的多个分类，最好在一直使用的微软账号里选择：&#13;
 &#13;
