@@ -1,6 +1,9 @@
 name: build Gmeek
 
 on:
+  push:
+    paths:
+      - 'config.json'
   workflow_dispatch:
   issues:
     types: [opened, edited]
